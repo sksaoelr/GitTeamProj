@@ -8,5 +8,10 @@
 </head>
 <body>
 	<h2>내용수정</h2>
+	l
+	l
+	l
+	l
+	
 </body>
 </html>
